@@ -39,7 +39,8 @@ This will draw the parabola **f(x) = x²**.
 
 ## Screenshot
 
-*<img width="1367" height="1017" alt="image" src="https://github.com/user-attachments/assets/378a66eb-42d8-47ab-bb26-6e1441b94c13" />
+*<img width="774" height="816" alt="image" src="https://github.com/user-attachments/assets/c871905b-66a1-437b-a234-123fe392e8c2" />
+
 *
 
 ## Skills Demonstrated
