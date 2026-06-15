@@ -11,7 +11,7 @@ A simple Python desktop app that draws the graph of a quadratic function **f(x) 
 
 ## Requirements
 
-- Python 3.x
+- Python 
 - tkinter (included with standard Python installation)
 
 ## How to Run
