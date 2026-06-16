@@ -17,7 +17,7 @@ A simple Python desktop app that draws the graph of a quadratic function **f(x) 
 ## How to Run
 
 ```bash
-python graf.py
+python graph.py
 ```
 
 When prompted, enter:
